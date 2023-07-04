@@ -43,15 +43,15 @@ ensure the candidate leaves with a positive impression of the interview process.
 
 ### Collections
 
-1. [Programming (general)](programming/VAULT.md) (in progress)
-2. [Design Patterns](patterns/VAULT.md)
-3. [Algorithms](algorithms/VAULT.md)
-4. [PHP](php/VAULT.md)
-5. [Databases](databases/VAULT.md)
-6. [JavaScript](javascript/VAULT.md)
-7. [HTML](html/VAULT.md)
-8. [CSS](css/VAULT.md)
-9. [Design](design/VAULT.md)
+1. [Programming (general)](programming/VAULT.md) (🔨 in progress)
+2. [Design Patterns & common principles](patterns/VAULT.md) (🔨 in progress)
+3. [Algorithms & data structures](algorithms/VAULT.md)
+4. [PHP](php/VAULT.md) (🔨 in progress)
+5. [Databases](databases/VAULT.md) (📌 to do)
+6. [JavaScript](javascript/VAULT.md) (📌 to do)
+7. [HTML](html/VAULT.md) (📌 to do)
+8. [CSS](css/VAULT.md) (📌 to do)
+9. [Design](design/VAULT.md) (📌 to do)
 
 ### Question Template
 
