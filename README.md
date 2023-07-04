@@ -2,9 +2,9 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Welcome to **Question Vault**, a comprehensive, curated collection of over 200
-handpicked interview questions designed to cover a vast array of topics and
-challenge candidates of all skill levels.
+**Question Vault** is a curated collection of over 200 handpicked interview
+questions designed to cover a vast array of topics and challenge candidates of
+all skill levels.
 
 Question Vault is a free resource committed to helping interviewers design more
 effective, targeted interviews and job seekers to better prepare for their
@@ -32,6 +32,53 @@ to more complex concepts related to the "big question".
 7. [HTML](html/VAULT.md)
 8. [CSS](css/VAULT.md)
 9. [Design](design/VAULT.md)
+
+### Question Template
+
+#### 🎯 Key Concepts
+
+List the key terms or concepts that are crucial to understanding and answering
+the question. This will often include technical terminology and principles
+related to the question.
+
+#### 👑 Flawless Answer
+
+This is the comprehensive, detailed answer that displays in-depth knowledge and
+understanding of the topic.
+
+#### 🌿 Acceptable Answer
+
+This is a more basic, yet still correct, answer that shows the candidate
+understands the essential aspects of the topic.
+
+#### 💎 Extra Points
+
+This section lists additional topics or information that a candidate might
+mention or explain to show an exceptional understanding or a wide breadth of
+knowledge about the topic.
+
+#### 🤓 Explanation
+
+A non-technical, simplified explanation of the topic or concept. This
+explanation should make the concept understandable to someone without a
+background in the field.
+
+#### 💡 Evaluation Tips
+
+Specific pointers and criteria to help the interviewer assess the candidate's
+answer. This might include common mistakes to watch out for, or signs of an
+especially good understanding.
+
+#### ✨ Insights
+
+Additional context and information about why the question is relevant and what
+it can reveal about the candidate. This could include how the question relates
+to typical tasks in the role or what specific skills or knowledge it can assess.
+
+#### 📚 Resources
+
+A list of reliable resources (e.g., articles, tutorials, official documentation)
+for the candidate or interviewer to learn more about the topic.
 
 ### Contributing
 
