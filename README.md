@@ -45,7 +45,7 @@ ensure the candidate leaves with a positive impression of the interview process.
 
 1. [Programming (general)](programming/VAULT.md) (🔨 in progress)
 2. [Design Patterns & common principles](patterns/VAULT.md) (🔨 in progress)
-3. [Algorithms & data structures](algorithms/VAULT.md)
+3. [Algorithms & data structures](algorithms/VAULT.md) (📌 to do)
 4. [PHP](php/VAULT.md) (🔨 in progress)
 5. [Databases](databases/VAULT.md) (📌 to do)
 6. [JavaScript](javascript/VAULT.md) (📌 to do)

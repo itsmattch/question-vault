@@ -26,9 +26,9 @@ number, allowing it to represent very large or very small numbers.
 
 ### 💎 Extra Points
 
-- Understanding of the IEEE 754 standard
-- Knowledge of binary number representation
-- Familiarity with fixed-point arithmetic
+- Understanding of the IEEE 754 standard.
+- Knowledge of binary number representation.
+- Familiarity with fixed-point arithmetic.
 
 ### 🤓 Explanation
 
