@@ -54,30 +54,30 @@ ensure the candidate leaves with a positive impression of the interview process.
 collection focuses on core programming techniques, methodologies, and theories
 applicable to multiple programming languages.
 
-**[🧩 Design Patterns & Common Principles](/patterns/README.md)** (coming soon):
+**🧩 Design Patterns & Common Principles** (coming soon):
 Deep dive into popular design patterns and principles that guide scalable and
 maintainable software development.
 
-**[🧠 Algorithms & Data Structures](/algorithms/README.md)** (coming soon):
+**🧠 Algorithms & Data Structures** (coming soon):
 Essential computer science concepts like algorithms, data structures, and
 complexity analysis.
 
 **[🐘 PHP](/php/README.md)**: Questions focusing on PHP, a popular server-side
 scripting language for web development.
 
-**[🗄️ Databases](/databases/README.md)** (coming soon): From SQL to NoSQL, this
+**🗄️ Databases** (coming soon): From SQL to NoSQL, this
 section covers a broad range of database-related topics.
 
-**[⚡ JavaScript](/javascript/README.md)** (coming soon): Focusing on JavaScript,
+**⚡ JavaScript** (coming soon): Focusing on JavaScript,
 the scripting language that's a mainstay of web development.
 
-**[📝 HTML](/html/README.md)** (coming soon): Questions about HTML, the standard
+**📝 HTML** (coming soon): Questions about HTML, the standard
 markup language for documents designed to be displayed in a web browser.
 
-**[🎨 CSS](/css/README.md)** (coming soon): This collection explores CSS, the
+**🎨 CSS** (coming soon): This collection explores CSS, the
 language that brings style to the web.
 
-**[🖌️ Design](/design/README.md)** (coming soon): This collection encompasses a
+**🖌️ Design** (coming soon): This collection encompasses a
 range of design-related topics, including UI/UX design principles, color theory,
 typography, responsive design, and more.
 
