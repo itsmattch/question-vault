@@ -1,15 +1,19 @@
-## Big-O
+## Algorithms & Data Structures
 
 // todo
 
-## Text correction
+### Big-O
 
 // todo
 
-## Queue
+### Text correction
 
 // todo
 
-## Stack
+### Queue
+
+// todo
+
+### Stack
 
 // todo

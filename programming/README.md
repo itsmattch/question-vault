@@ -1,10 +1,23 @@
-## Floating-point error mitigation
+## General Programming
+
+This collection covers a wide array of topics that form the foundation of
+programming across various languages and paradigms. The aim of it is to provide
+an in-depth understanding of key techniques and methodologies that underpin
+programming, irrespective of specific language syntax or semantics.
+
+Here you'll find questions on everything from fundamental concepts like
+floating-point arithmetic and numeral systems, to more advanced topics like the
+CAP theorem, Eventual Consistency, Event Sourcing, and CQRS.
+
+### Floating-point error mitigation
 
 In any system where precise mathematical calculations are critical, handling
 floating-point numbers can pose significant challenges due to inherent
-imprecision issues. This is particularly crucial in financial systems where
-currency calculations demand high precision, and in scientific computations or
-engineering applications that might involve very large or very small numbers.
+imprecision issues.
+
+This is particularly crucial in financial systems where currency calculations
+demand high precision, and in scientific computations or engineering
+applications that might involve very large or very small numbers.
 
 1. [What is a floating point number?](/programming/repository/float.md)
 2. [How are floating point numbers represented in computer memory?](/programming/repository/float-in-memory.md)
@@ -13,30 +26,30 @@ engineering applications that might involve very large or very small numbers.
 5. [Can you explain a technique to compare floating point numbers with a degree of tolerance?](/programming/repository/float-tolerance.md)
 6. [Can you discuss any potential performance implications or trade-offs when using mitigation techniques for floating point errors?](/programming/repository/float-mitigation-pitfalls.md)
 
-## Common numeral systems
+### Common numeral systems
 
 // todo
 
-## Comments
+### Comments
 
 // todo
 
-## CAP Theorem
+### CAP Theorem
 
 // todo
 
-## Eventual consistency
+### Eventual consistency
 
 // todo
 
-## Event sourcing
+### Event sourcing
 
 // todo
 
-## CQRS
+### CQRS
 
 // todo
 
-## Test Driven Development
+### Test Driven Development
 
 // todo

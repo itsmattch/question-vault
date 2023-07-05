@@ -20,6 +20,13 @@ thoughtful execution. When done correctly, it can provide deep insights into a
 candidate's knowledge, skills, and suitability for a role. Here are some
 strategies to consider:
 
+#### Choose relevant questions
+
+In an interview, it's critical to ask questions that are relevant to the role
+you're hiring for. While it can be interesting to explore a candidate's
+knowledge in various areas, sticking to job-related topics is usually more
+productive and respectful of the candidate's time.
+
 #### Start with simple questions
 
 Initiating the interview with straightforward questions can help put the
@@ -43,15 +50,36 @@ ensure the candidate leaves with a positive impression of the interview process.
 
 ### Collections
 
-1. [Programming (general)](programming/VAULT.md) (🔨 in progress)
-2. [Design Patterns & common principles](patterns/VAULT.md) (🔨 in progress)
-3. [Algorithms & data structures](algorithms/VAULT.md) (📌 to do)
-4. [PHP](php/VAULT.md) (🔨 in progress)
-5. [Databases](databases/VAULT.md) (📌 to do)
-6. [JavaScript](javascript/VAULT.md) (📌 to do)
-7. [HTML](html/VAULT.md) (📌 to do)
-8. [CSS](css/VAULT.md) (📌 to do)
-9. [Design](design/VAULT.md) (📌 to do)
+**[💻 General Programming](/programming/README.md)**: The General Programming
+collection focuses on core programming techniques, methodologies, and theories
+applicable to multiple programming languages.
+
+**[🧩 Design Patterns & Common Principles](/patterns/README.md)**: Deep dive
+into popular design patterns and principles that guide scalable and maintainable
+software development.
+
+**[🧠 Algorithms & Data Structures](/algorithms/README.md)**: Essential computer
+science concepts like algorithms, data structures, and complexity analysis.
+
+**[🐘 PHP](/php/README.md)**: Questions focusing on PHP, a popular server-side
+scripting language for web development.
+
+**[🗄️ Databases](/databases/README.md)**: From SQL to NoSQL, this section covers
+a
+broad range of database-related topics.
+
+**[⚡ JavaScript](/javascript/README.md)**: Focusing on JavaScript, the scripting
+language that's a mainstay of web development.
+
+**[📝 HTML](/html/README.md)**: Questions about HTML, the standard markup
+language for documents designed to be displayed in a web browser.
+
+**[🎨 CSS](/css/README.md)**: This section pertains to CSS, the style-sheet
+language
+used for describing the look and formatting of a document written in HTML.
+
+**[🖌️ Design](/design/README.md)**: This section pertains to design principles,
+covering topics from UI/UX to responsive design.
 
 ### Question Template
 

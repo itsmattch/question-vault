@@ -1,49 +1,53 @@
-## Single Responsibility Principle
+## Design Patterns & Common Principles
 
 // todo
 
-## Liskov Substitution Principle
+### Single Responsibility Principle
 
 // todo
 
-## Dependency Inversion Principle
+### Liskov Substitution Principle
 
 // todo
 
-## Principle of Least Astonishment
+### Dependency Inversion Principle
 
 // todo
 
-## Separation of Concerns
+### Principle of Least Astonishment
 
 // todo
 
-## Composition over inheritance
+### Separation of Concerns
 
 // todo
 
-## Factory
+### Composition over inheritance
 
 // todo
 
-## Strategy
+### Factory
 
 // todo
 
-## Builder
+### Strategy
 
 // todo
 
-## Singleton
+### Builder
 
 // todo
 
-## Facade
+### Singleton
 
 // todo
 
-## Registry
+### Facade
 
 // todo
 
-## Null Object
+### Registry
+
+// todo
+
+### Null Object
