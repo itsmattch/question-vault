@@ -6,6 +6,24 @@
 interview questions designed to cover a vast array of topics and challenge
 candidates of all skill levels.
 
+Going beyond the conventional knowledge-oriented approach, Question Vault adopts
+a problem-oriented perspective. Each series of questions is more than a test of
+knowledge; it's a pathway leading towards the understanding of specific
+challenges, exploring solutions to complex issues, or gaining in-depth insight
+into various functionalities.
+
+The focus here is on addressing real-world complications and nuances, an
+approach that not only broadens your practical comprehension but also
+strengthens your problem-solving prowess. This makes Question Vault a diverse
+toolkit for interviewers and an all-inclusive study resource for aspiring
+candidates.
+
+_If you're finding this repository useful, consider leaving a star! 🌟 Starring
+helps increase the visibility of the project, which in turn can attract more
+contributors and make our collective knowledge grow faster. Plus, it'll also
+keep you updated as the database of questions continues to evolve. Thank you for
+your support!_
+
 ### Questions
 
 The questions follow an escalating format, starting from basic concepts and
@@ -50,34 +68,34 @@ ensure the candidate leaves with a positive impression of the interview process.
 
 ### Collections
 
-**[💻 General Programming](/programming/README.md)**: The General Programming
+**[General Programming](/programming/README.md)**: The General Programming
 collection focuses on core programming techniques, methodologies, and theories
 applicable to multiple programming languages.
 
-**[🧩 Design Patterns & Common Principles](/patterns/README.md)**: Deep dive
+**[Design Patterns & Common Principles](/patterns/README.md)**: Deep dive
 into popular design patterns and principles that guide scalable and maintainable
 software development.
 
-**🧠 Algorithms & Data Structures** (coming soon):
+**[PHP](/php/README.md)**: Questions focusing on PHP, a popular server-side
+scripting language for web development.
+
+**Algorithms & Data Structures** (coming soon):
 Essential computer science concepts like algorithms, data structures, and
 complexity analysis.
 
-**[🐘 PHP](/php/README.md)**: Questions focusing on PHP, a popular server-side
-scripting language for web development.
-
-**🗄️ Databases** (coming soon): From SQL to NoSQL, this
+**Databases** (coming soon): From SQL to NoSQL, this
 section covers a broad range of database-related topics.
 
-**⚡ JavaScript** (coming soon): Focusing on JavaScript,
+**JavaScript** (coming soon): Focusing on JavaScript,
 the scripting language that's a mainstay of web development.
 
-**📝 HTML** (coming soon): Questions about HTML, the standard
+**HTML** (coming soon): Questions about HTML, the standard
 markup language for documents designed to be displayed in a web browser.
 
-**🎨 CSS** (coming soon): This collection explores CSS, the
+**CSS** (coming soon): This collection explores CSS, the
 language that brings style to the web.
 
-**🖌️ Design** (coming soon): This collection encompasses a
+**Design** (coming soon): This collection encompasses a
 range of design-related topics, including UI/UX design principles, color theory,
 typography, responsive design, and more.
 

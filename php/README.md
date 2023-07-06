@@ -5,11 +5,22 @@ set of features and nuances that a skilled PHP developer should understand. This
 collection reflects that diversity, covering everything from basic language
 constructs to advanced functionalities.
 
-### Type Juggling Pitfalls
+### Type Juggling Error Mitigation
 
-Understanding how PHP handles types and comparisons is crucial, as it's a common
-source of bugs and misunderstandings. It also highlights one of the unique
-aspects of PHP compared to other languages.
+Writing effective PHP code requires a solid grasp of how PHP handles types,
+automatic type conversion (type juggling), and value comparisons. This path
+focuses on how to mitigate potential errors caused by type juggling during value
+comparisons and highlights PHP's best practices to ensure reliable and
+predictable code behavior.
+
+// doing
+
+### Type Juggling and Strict Types
+
+Understanding PHP's type system and its unique concept of type juggling is
+crucial in writing robust and error-free PHP code. This path dives into the
+details of type juggling, the pitfalls, and the solutions introduced in PHP 7
+with strict type declarations.
 
 // doing
 
