@@ -54,9 +54,9 @@ ensure the candidate leaves with a positive impression of the interview process.
 collection focuses on core programming techniques, methodologies, and theories
 applicable to multiple programming languages.
 
-**[🧩 Design Patterns & Common Principles](/patterns/README.md)** (coming soon):
-Deep dive into popular design patterns and principles that guide scalable and
-maintainable software development.
+**[🧩 Design Patterns & Common Principles](/patterns/README.md)**: Deep dive
+into popular design patterns and principles that guide scalable and maintainable
+software development.
 
 **🧠 Algorithms & Data Structures** (coming soon):
 Essential computer science concepts like algorithms, data structures, and
