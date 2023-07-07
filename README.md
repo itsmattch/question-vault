@@ -24,6 +24,16 @@ contributors and make our collective knowledge grow faster. Plus, it'll also
 keep you updated as the database of questions continues to evolve. Thank you for
 your support!_
 
+### Important: Developers Are Not Walking Encyclopedias
+
+Interviews are not memory contests. While it's important for a candidate to
+demonstrate a firm understanding of the concepts, it's also unrealistic to
+expect them to recall all specific details or syntax perfectly.
+
+In everyday work, developers often refer to documentation, stackoverflow, or
+other resources. **A good developer is not someone who knows everything by
+heart, but rather one who knows how to find and apply information efficiently**.
+
 ### Questions
 
 The questions follow an escalating format, starting from basic concepts and
@@ -144,6 +154,10 @@ proposal of entirely new topics.
 In keeping with the philosophy of the Question Vault, all questions should
 follow an escalating format, initiating from basic concepts and progressively
 tackling more intricate and specialized topics.
+
+To maintain a consistent format across all questions, please utilize the
+provided template found in [TEMPLATE.md](TEMPLATE.md). This template outlines
+the structure and formatting required for contributions.
 
 ### License
 
